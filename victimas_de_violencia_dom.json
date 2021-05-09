@@ -5,92 +5,9 @@
     "Subtitulo": "",
     "Datos": {
         "Metricas": [
+            
             {
                 "Id": 0,
-                "Nombre": "Total",
-                "SonDatosNumericos": true,
-                "Fuente": "INE",
-                "Clasificacion": null,
-                "Unidad": "Víctimas",
-                "Escala": "Unidades",
-                "EscalaFactorPotencia10": 0,
-                "Datos": [
-                    {
-                        "Agno": 2011,
-                        "Periodo": "Año",
-                        "Parametro": "2011",
-                        "Valor": 7744,
-                        "Estado": null,
-                        "Notas": null
-                    },
-                    {
-                        "Agno": 2012,
-                        "Periodo": "Año",
-                        "Parametro": "2012",
-                        "Valor": 7298,
-                        "Estado": null,
-                        "Notas": null
-                    },
-                    {
-                        "Agno": 2013,
-                        "Periodo": "Año",
-                        "Parametro": "2013",
-                        "Valor": 7060,
-                        "Estado": null,
-                        "Notas": null
-                    },
-                    {
-                        "Agno": 2014,
-                        "Periodo": "Año",
-                        "Parametro": "2014",
-                        "Valor": 7084,
-                        "Estado": null,
-                        "Notas": null
-                    },
-                    {
-                        "Agno": 2015,
-                        "Periodo": "Año",
-                        "Parametro": "2015",
-                        "Valor": 7229,
-                        "Estado": null,
-                        "Notas": null
-                    },
-                    {
-                        "Agno": 2016,
-                        "Periodo": "Año",
-                        "Parametro": "2016",
-                        "Valor": 6863,
-                        "Estado": null,
-                        "Notas": null
-                    },
-                    {
-                        "Agno": 2017,
-                        "Periodo": "Año",
-                        "Parametro": "2017",
-                        "Valor": 6909,
-                        "Estado": null,
-                        "Notas": null
-                    },
-                    {
-                        "Agno": 2018,
-                        "Periodo": "Año",
-                        "Parametro": "2018",
-                        "Valor": 7388,
-                        "Estado": null,
-                        "Notas": null
-                    },
-                    {
-                        "Agno": 2019,
-                        "Periodo": "Año",
-                        "Parametro": "2019",
-                        "Valor": 7654,
-                        "Estado": null,
-                        "Notas": null
-                    }
-                ]
-            },
-            {
-                "Id": 1,
                 "Nombre": "Hombres",
                 "SonDatosNumericos": true,
                 "Fuente": "INE",
@@ -174,7 +91,7 @@
                 ]
             },
             {
-                "Id": 2,
+                "Id": 1,
                 "Nombre": "Mujeres",
                 "SonDatosNumericos": true,
                 "Fuente": "INE",
