@@ -1,0 +1,4246 @@
+﻿{
+    "Id": "548950e4-5a4c-4257-9ecf-1b370941b044",
+    "Url": "www.epdata.es/estado-vacunacion-contra-coronavirus-mundo/548950e4-5a4c-4257-9ecf-1b370941b044",
+    "Titulo": "Estado de la vacunación contra el coronavirus en el mundo",
+    "Subtitulo": "Último dato disponible a 4 de mayo",
+    "Datos": {
+        "Metricas": [
+            {
+                "Id": 0,
+                "Nombre": "Dosis totales",
+                "SonDatosNumericos": true,
+                "Fuente": "Our World in Data",
+                "Clasificacion": null,
+                "Unidad": "Dosis",
+                "Escala": "Unidades",
+                "EscalaFactorPotencia10": 0,
+                "Datos": [
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Afganistán",
+                        "Valor": 240000,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Albania",
+                        "Valor": 517501,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Alemania",
+                        "Valor": 30147919,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Andorra",
+                        "Valor": 28503,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Angola",
+                        "Valor": 456349,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Antigua y Barbuda",
+                        "Valor": 29754,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Arabia Saudita",
+                        "Valor": 9757161,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Argelia",
+                        "Valor": 75000,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Argentina",
+                        "Valor": 8039793,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Armenia",
+                        "Valor": 565,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Aruba",
+                        "Valor": 77728,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Australia",
+                        "Valor": 2260615,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Austria",
+                        "Valor": 3225441,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Azerbaiyán",
+                        "Valor": 1516923,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Bahamas",
+                        "Valor": 25692,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Bahréin",
+                        "Valor": 1283303,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Bangladesh",
+                        "Valor": 8842888,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Barbados",
+                        "Valor": 74608,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Bélgica",
+                        "Valor": 3986716,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Belice",
+                        "Valor": 42100,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Bielorrusia",
+                        "Valor": 328500,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Birmania",
+                        "Valor": 1040000,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Bolivia",
+                        "Valor": 848149,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Bosnia y Herzegovina",
+                        "Valor": 15000,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Botswana",
+                        "Valor": 49882,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Brasil",
+                        "Valor": 43962159,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Brunei",
+                        "Valor": 10715,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Bulgaria",
+                        "Valor": 833510,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Bután",
+                        "Valor": 480498,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Cabo Verde",
+                        "Valor": 2184,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Camboya",
+                        "Valor": 2469822,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Camerún",
+                        "Valor": 400,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Canadá",
+                        "Valor": 14051490,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Chequia",
+                        "Valor": 3272012,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Chile",
+                        "Valor": 14850160,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "China",
+                        "Valor": 279905000,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Chipre",
+                        "Valor": 236265,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Colombia",
+                        "Valor": 5220330,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Corea del Sur",
+                        "Valor": 3733940,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Costa de Marfil",
+                        "Valor": 163176,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Costa Rica",
+                        "Valor": 818884,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Croacia",
+                        "Valor": 921527,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Curazao",
+                        "Valor": 100527,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Dinamarca",
+                        "Valor": 2037465,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Dominica",
+                        "Valor": 27821,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Ecuador",
+                        "Valor": 1036794,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Egipto",
+                        "Valor": 660000,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "El Salvador",
+                        "Valor": 915725,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Emiratos Árabes Unidos",
+                        "Valor": 10666924,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Eslovaquia",
+                        "Valor": 1653003,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Eslovenia",
+                        "Valor": 647758,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "España",
+                        "Valor": 17130598,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Estados Unidos",
+                        "Valor": 246780203,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Estonia",
+                        "Valor": 470680,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Etiopía",
+                        "Valor": 1168268,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Filipinas",
+                        "Valor": 1999214,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Finlandia",
+                        "Valor": 1866796,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Fiyi",
+                        "Valor": 56000,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Francia",
+                        "Valor": 22413191,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Gabón",
+                        "Valor": 8897,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Gambia",
+                        "Valor": 20922,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Georgia",
+                        "Valor": 45338,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Ghana",
+                        "Valor": 849527,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Granada",
+                        "Valor": 15397,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Grecia",
+                        "Valor": 3136791,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Groenlandia",
+                        "Valor": 14176,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Guatemala",
+                        "Valor": 171695,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Guayana",
+                        "Valor": 126800,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Guinea",
+                        "Valor": 143534,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Guinea Ecuatorial",
+                        "Valor": 75518,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Honduras",
+                        "Valor": 57639,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Hong Kong",
+                        "Valor": 1529490,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Hungría",
+                        "Valor": 6150309,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "India",
+                        "Valor": 156082136,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Indonesia",
+                        "Valor": 20172516,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Irak",
+                        "Valor": 298377,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Irán",
+                        "Valor": 1068123,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Irlanda",
+                        "Valor": 1591888,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Islandia",
+                        "Valor": 146111,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Islas Salomón",
+                        "Valor": 4890,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Israel",
+                        "Valor": 10467511,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Italia",
+                        "Valor": 21161899,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Jamaica",
+                        "Valor": 135473,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Japón",
+                        "Valor": 3489719,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Jordania",
+                        "Valor": 919922,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Kazajistán",
+                        "Valor": 1559836,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Kenia",
+                        "Valor": 853081,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Kirguistán",
+                        "Valor": 27858,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Kosovo",
+                        "Valor": 22096,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Kuwait",
+                        "Valor": 1000000,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Laos",
+                        "Valor": 184387,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Lesoto",
+                        "Valor": 16000,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Letonia",
+                        "Valor": 321966,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Líbano",
+                        "Valor": 473740,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Libia",
+                        "Valor": 750,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Liechtenstein",
+                        "Valor": 12219,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Lituania",
+                        "Valor": 1012046,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Luxemburgo",
+                        "Valor": 200553,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Macao",
+                        "Valor": 108174,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Macedonia del Norte",
+                        "Valor": 61603,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Malasia",
+                        "Valor": 1500202,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Malawi",
+                        "Valor": 296127,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Maldivas",
+                        "Valor": 399550,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Mali",
+                        "Valor": 49903,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Malta",
+                        "Valor": 341909,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Marruecos",
+                        "Valor": 9389397,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Mauricio",
+                        "Valor": 117323,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Mauritania",
+                        "Valor": 7038,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "México",
+                        "Valor": 18471669,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Moldavia",
+                        "Valor": 147315,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Mónaco",
+                        "Valor": 24390,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Mongolia",
+                        "Valor": 1532522,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Montenegro",
+                        "Valor": 63820,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Mozambique",
+                        "Valor": 57305,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Namibia",
+                        "Valor": 20005,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Nauru",
+                        "Valor": 700,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Nepal",
+                        "Valor": 2091511,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Nicaragua",
+                        "Valor": 135130,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Níger",
+                        "Valor": 1366,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Nigeria",
+                        "Valor": 1229733,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Noruega",
+                        "Valor": 1741081,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Nueva Zelanda",
+                        "Valor": 232588,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Omán",
+                        "Valor": 315691,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Países Bajos",
+                        "Valor": 5265860,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Pakistán",
+                        "Valor": 2100000,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Palestina",
+                        "Valor": 213989,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Panamá",
+                        "Valor": 692764,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Papúa Nueva Guinea",
+                        "Valor": 2900,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Paraguay",
+                        "Valor": 103994,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Perú",
+                        "Valor": 1759014,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Polonia",
+                        "Valor": 11995786,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Portugal",
+                        "Valor": 3442517,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Qatar",
+                        "Valor": 1635398,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Reino Unido",
+                        "Valor": 50089549,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "República Dominicana",
+                        "Valor": 1989384,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Ruanda",
+                        "Valor": 350131,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Rumanía",
+                        "Valor": 5341742,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Rusia",
+                        "Valor": 20110554,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "San Cristóbal y Nieves",
+                        "Valor": 11848,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "San Marino",
+                        "Valor": 29941,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "San Vicente y las Granadinas",
+                        "Valor": 14526,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Santa Lucía",
+                        "Valor": 24426,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Santo Tomé y Príncipe",
+                        "Valor": 9724,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Senegal",
+                        "Valor": 413031,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Serbia",
+                        "Valor": 3526876,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Seychelles",
+                        "Valor": 126840,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Sierra Leona",
+                        "Valor": 61107,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Singapur",
+                        "Valor": 2213888,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Siria",
+                        "Valor": 2500,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Somalia",
+                        "Valor": 117567,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Sri Lanka",
+                        "Valor": 1024978,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Sudáfrica",
+                        "Valor": 329098,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Sudán",
+                        "Valor": 140227,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Sudán del Sur",
+                        "Valor": 947,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Suecia",
+                        "Valor": 3266894,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Suiza",
+                        "Valor": 2629843,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Surinam",
+                        "Valor": 39953,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Swazilandia",
+                        "Valor": 34897,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Tailandia",
+                        "Valor": 1498617,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Taiwán",
+                        "Valor": 62437,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Timor",
+                        "Valor": 2629,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Togo",
+                        "Valor": 160000,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Tonga",
+                        "Valor": 5367,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Trinidad y Tobago",
+                        "Valor": 44810,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Túnez",
+                        "Valor": 400364,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Turquía",
+                        "Valor": 23294477,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Ucrania",
+                        "Valor": 756310,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Uganda",
+                        "Valor": 339607,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Uruguay",
+                        "Valor": 1868201,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Uzbekistan",
+                        "Valor": 600369,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Venezuela",
+                        "Valor": 250000,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Vietnam",
+                        "Valor": 506435,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Yibuti",
+                        "Valor": 10246,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Zambia",
+                        "Valor": 45740,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Zimbabue",
+                        "Valor": 524199,
+                        "Estado": null,
+                        "Notas": null
+                    }
+                ]
+            },
+            {
+                "Id": 1,
+                "Nombre": "% personas que han recibido al menos una dosis",
+                "SonDatosNumericos": true,
+                "Fuente": "Our World in Data",
+                "Clasificacion": null,
+                "Unidad": "%",
+                "Escala": "Unidades",
+                "EscalaFactorPotencia10": 0,
+                "Datos": [
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Afganistán",
+                        "Valor": 0.62,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Albania",
+                        "Valor": 0.21,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Alemania",
+                        "Valor": 28.04,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Andorra",
+                        "Valor": 30.83,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Angola",
+                        "Valor": 1.39,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Antigua y Barbuda",
+                        "Valor": 30.38,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Arabia Saudita",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Argelia",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Argentina",
+                        "Valor": 15.6,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Armenia",
+                        "Valor": 0.02,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Aruba",
+                        "Valor": 51.15,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Australia",
+                        "Valor": 0.62,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Austria",
+                        "Valor": 26.21,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Azerbaiyán",
+                        "Valor": 9.62,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Bahamas",
+                        "Valor": 6.53,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Bahréin",
+                        "Valor": 43.06,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Bangladesh",
+                        "Valor": 3.53,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Barbados",
+                        "Valor": 25.96,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Bélgica",
+                        "Valor": 27.04,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Belice",
+                        "Valor": 10.59,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Bielorrusia",
+                        "Valor": 2.58,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Birmania",
+                        "Valor": 1.84,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Bolivia",
+                        "Valor": 5.27,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Bosnia y Herzegovina",
+                        "Valor": 1.93,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Botswana",
+                        "Valor": 2.12,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Brasil",
+                        "Valor": 14.05,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Brunei",
+                        "Valor": 2.45,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Bulgaria",
+                        "Valor": 8.83,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Bután",
+                        "Valor": 62.27,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Cabo Verde",
+                        "Valor": 0.39,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Camboya",
+                        "Valor": 8.77,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Camerún",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Canadá",
+                        "Valor": 34.22,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Chequia",
+                        "Valor": 21.12,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Chile",
+                        "Valor": 42.44,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "China",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Chipre",
+                        "Valor": 20.1,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Colombia",
+                        "Valor": 6.79,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Corea del Sur",
+                        "Valor": 6.76,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Costa de Marfil",
+                        "Valor": 0.62,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Costa Rica",
+                        "Valor": 10.57,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Croacia",
+                        "Valor": 17.46,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Curazao",
+                        "Valor": 44.7,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Dinamarca",
+                        "Valor": 23.61,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Dominica",
+                        "Valor": 25.69,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Ecuador",
+                        "Valor": 4.49,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Egipto",
+                        "Valor": 0.64,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "El Salvador",
+                        "Valor": 12.95,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Emiratos Árabes Unidos",
+                        "Valor": 51.38,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Eslovaquia",
+                        "Valor": 20.86,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Eslovenia",
+                        "Valor": 20.73,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "España",
+                        "Valor": 26.01,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Estados Unidos",
+                        "Valor": 44.11,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Estonia",
+                        "Valor": 25.78,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Etiopía",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Filipinas",
+                        "Valor": 1.54,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Finlandia",
+                        "Valor": 30.65,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Fiyi",
+                        "Valor": 6.25,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Francia",
+                        "Valor": 23.29,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Gabón",
+                        "Valor": 0.31,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Gambia",
+                        "Valor": 0.87,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Georgia",
+                        "Valor": 1.14,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Ghana",
+                        "Valor": 2.73,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Granada",
+                        "Valor": 11.26,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Grecia",
+                        "Valor": 21.03,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Groenlandia",
+                        "Valor": 15.68,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Guatemala",
+                        "Valor": 0.95,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Guayana",
+                        "Valor": 15.76,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Guinea",
+                        "Valor": 0.73,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Guinea Ecuatorial",
+                        "Valor": 4.61,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Honduras",
+                        "Valor": 0.56,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Hong Kong",
+                        "Valor": 12.96,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Hungría",
+                        "Valor": 42.16,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "India",
+                        "Valor": 9.25,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Indonesia",
+                        "Valor": 4.56,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Irak",
+                        "Valor": 0.74,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Irán",
+                        "Valor": 1.02,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Irlanda",
+                        "Valor": 23.22,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Islandia",
+                        "Valor": 32.29,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Islas Salomón",
+                        "Valor": 0.71,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Israel",
+                        "Valor": 62.47,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Italia",
+                        "Valor": 24.61,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Jamaica",
+                        "Valor": 4.57,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Japón",
+                        "Valor": 1.97,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Jordania",
+                        "Valor": 6.85,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Kazajistán",
+                        "Valor": 6.89,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Kenia",
+                        "Valor": 1.59,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Kirguistán",
+                        "Valor": 0.41,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Kosovo",
+                        "Valor": 1.14,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Kuwait",
+                        "Valor": 19.25,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Laos",
+                        "Valor": 1.73,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Lesoto",
+                        "Valor": 0.75,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Letonia",
+                        "Valor": 14.2,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Líbano",
+                        "Valor": 4.38,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Libia",
+                        "Valor": 0.01,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Liechtenstein",
+                        "Valor": 21.09,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Lituania",
+                        "Valor": 25.79,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Luxemburgo",
+                        "Valor": 23.71,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Macao",
+                        "Valor": 10.93,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Macedonia del Norte",
+                        "Valor": 2.96,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Malasia",
+                        "Valor": 2.83,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Malawi",
+                        "Valor": 1.55,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Maldivas",
+                        "Valor": 54.94,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Mali",
+                        "Valor": 0.25,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Malta",
+                        "Valor": 52.81,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Marruecos",
+                        "Valor": 13.84,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Mauricio",
+                        "Valor": 9.23,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Mauritania",
+                        "Valor": 0.15,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "México",
+                        "Valor": 9.79,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Moldavia",
+                        "Valor": 3.23,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Mónaco",
+                        "Valor": 32.51,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Mongolia",
+                        "Valor": 31.65,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Montenegro",
+                        "Valor": 6.41,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Mozambique",
+                        "Valor": 0.18,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Namibia",
+                        "Valor": 0.74,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Nauru",
+                        "Valor": 6.46,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Nepal",
+                        "Valor": 7.18,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Nicaragua",
+                        "Valor": 2.04,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Níger",
+                        "Valor": 0.01,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Nigeria",
+                        "Valor": 0.6,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Noruega",
+                        "Valor": 25.34,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Nueva Zelanda",
+                        "Valor": 3.58,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Omán",
+                        "Valor": 4.95,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Países Bajos",
+                        "Valor": 22.65,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Pakistán",
+                        "Valor": 0.95,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Palestina",
+                        "Valor": 3.33,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Panamá",
+                        "Valor": 11.61,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Papúa Nueva Guinea",
+                        "Valor": 0.03,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Paraguay",
+                        "Valor": 1.3,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Perú",
+                        "Valor": 3.43,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Polonia",
+                        "Valor": 23.83,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Portugal",
+                        "Valor": 24.84,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Qatar",
+                        "Valor": 35.8,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Reino Unido",
+                        "Valor": 50.95,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "República Dominicana",
+                        "Valor": 10.99,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Ruanda",
+                        "Valor": 2.7,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Rumanía",
+                        "Valor": 17.44,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Rusia",
+                        "Valor": 8.53,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "San Cristóbal y Nieves",
+                        "Valor": 22.27,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "San Marino",
+                        "Valor": 61.77,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "San Vicente y las Granadinas",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Santa Lucía",
+                        "Valor": 11.03,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Santo Tomé y Príncipe",
+                        "Valor": 4.44,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Senegal",
+                        "Valor": 2.47,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Serbia",
+                        "Valor": 29.81,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Seychelles",
+                        "Valor": 68.82,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Sierra Leona",
+                        "Valor": 0.69,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Singapur",
+                        "Valor": 23.32,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Siria",
+                        "Valor": 0.01,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Somalia",
+                        "Valor": 0.74,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Sri Lanka",
+                        "Valor": 4.33,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Sudáfrica",
+                        "Valor": 0.55,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Sudán",
+                        "Valor": 0.32,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Sudán del Sur",
+                        "Valor": 0.01,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Suecia",
+                        "Valor": 24.86,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Suiza",
+                        "Valor": 19.69,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Surinam",
+                        "Valor": 6.81,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Swazilandia",
+                        "Valor": 3.01,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Tailandia",
+                        "Valor": 1.58,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Taiwán",
+                        "Valor": 0.14,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Timor",
+                        "Valor": 0.2,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Togo",
+                        "Valor": 1.93,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Tonga",
+                        "Valor": 5.08,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Trinidad y Tobago",
+                        "Valor": 3.2,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Túnez",
+                        "Valor": 2.58,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Turquía",
+                        "Valor": 16.52,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Ucrania",
+                        "Valor": 1.73,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Uganda",
+                        "Valor": 0.74,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Uruguay",
+                        "Valor": 33.96,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Uzbekistan",
+                        "Valor": 1.79,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Venezuela",
+                        "Valor": 0.88,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Vietnam",
+                        "Valor": 0.52,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Yibuti",
+                        "Valor": 1.04,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Zambia",
+                        "Valor": 0.25,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Zimbabue",
+                        "Valor": 2.89,
+                        "Estado": null,
+                        "Notas": null
+                    }
+                ]
+            },
+            {
+                "Id": 2,
+                "Nombre": "% personas que han recibido la pauta completa",
+                "SonDatosNumericos": true,
+                "Fuente": "Our World in Data",
+                "Clasificacion": null,
+                "Unidad": "%",
+                "Escala": "Unidades",
+                "EscalaFactorPotencia10": 0,
+                "Datos": [
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Afganistán",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Albania",
+                        "Valor": 0.02,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Alemania",
+                        "Valor": 7.94,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Andorra",
+                        "Valor": 6.06,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Angola",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Antigua y Barbuda",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Arabia Saudita",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Argelia",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Argentina",
+                        "Valor": 2.19,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Armenia",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Aruba",
+                        "Valor": 21.65,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Australia",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Austria",
+                        "Valor": 9.6,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Azerbaiyán",
+                        "Valor": 5.34,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Bahamas",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Bahréin",
+                        "Valor": 32.36,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Bangladesh",
+                        "Valor": 1.84,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Barbados",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Bélgica",
+                        "Valor": 7.39,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Belice",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Bielorrusia",
+                        "Valor": 0.89,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Birmania",
+                        "Valor": 0.07,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Bolivia",
+                        "Valor": 2,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Bosnia y Herzegovina",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Botswana",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Brasil",
+                        "Valor": 6.63,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Brunei",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Bulgaria",
+                        "Valor": 3.16,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Bután",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Cabo Verde",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Camboya",
+                        "Valor": 6,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Camerún",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Canadá",
+                        "Valor": 3.01,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Chequia",
+                        "Valor": 9.5,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Chile",
+                        "Valor": 35.24,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "China",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Chipre",
+                        "Valor": 6.87,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Colombia",
+                        "Valor": 3.47,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Corea del Sur",
+                        "Valor": 0.52,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Costa de Marfil",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Costa Rica",
+                        "Valor": 5.5,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Croacia",
+                        "Valor": 4.99,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Curazao",
+                        "Valor": 16.56,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Dinamarca",
+                        "Valor": 11.57,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Dominica",
+                        "Valor": 12.95,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Ecuador",
+                        "Valor": 1.39,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Egipto",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "El Salvador",
+                        "Valor": 1.17,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Emiratos Árabes Unidos",
+                        "Valor": 38.79,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Eslovaquia",
+                        "Valor": 9.42,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Eslovenia",
+                        "Valor": 10.43,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "España",
+                        "Valor": 10.91,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Estados Unidos",
+                        "Valor": 31.55,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Estonia",
+                        "Valor": 9.7,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Etiopía",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Filipinas",
+                        "Valor": 0.28,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Finlandia",
+                        "Valor": 3.04,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Fiyi",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Francia",
+                        "Valor": 9.69,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Gabón",
+                        "Valor": 0.09,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Gambia",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Georgia",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Ghana",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Granada",
+                        "Valor": 2.43,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Grecia",
+                        "Valor": 9.07,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Groenlandia",
+                        "Valor": 9.29,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Guatemala",
+                        "Valor": 0.01,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Guayana",
+                        "Valor": 0.36,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Guinea",
+                        "Valor": 0.37,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Guinea Ecuatorial",
+                        "Valor": 0.77,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Honduras",
+                        "Valor": 0.03,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Hong Kong",
+                        "Valor": 7.44,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Hungría",
+                        "Valor": 21.5,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "India",
+                        "Valor": 2.06,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Indonesia",
+                        "Valor": 2.82,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Irak",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Irán",
+                        "Valor": 0.25,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Irlanda",
+                        "Valor": 9.02,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Islandia",
+                        "Valor": 10.66,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Islas Salomón",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Israel",
+                        "Valor": 58.46,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Italia",
+                        "Valor": 10.55,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Jamaica",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Japón",
+                        "Valor": 0.79,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Jordania",
+                        "Valor": 2.16,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Kazajistán",
+                        "Valor": 1.42,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Kenia",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Kirguistán",
+                        "Valor": 0.01,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Kosovo",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Kuwait",
+                        "Valor": 0.89,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Laos",
+                        "Valor": 0.8,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Lesoto",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Letonia",
+                        "Valor": 2.88,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Líbano",
+                        "Valor": 2.56,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Libia",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Liechtenstein",
+                        "Valor": 10.95,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Lituania",
+                        "Valor": 11.38,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Luxemburgo",
+                        "Valor": 8.32,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Macao",
+                        "Valor": 5.75,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Macedonia del Norte",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Malasia",
+                        "Valor": 1.81,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Malawi",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Maldivas",
+                        "Valor": 18.98,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Mali",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Malta",
+                        "Valor": 24.62,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Marruecos",
+                        "Valor": 11.6,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Mauricio",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Mauritania",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "México",
+                        "Valor": 6.04,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Moldavia",
+                        "Valor": 0.42,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Mónaco",
+                        "Valor": 29.64,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Mongolia",
+                        "Valor": 15.09,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Montenegro",
+                        "Valor": 3.75,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Mozambique",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Namibia",
+                        "Valor": 0.05,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Nauru",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Nepal",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Nicaragua",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Níger",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Nigeria",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Noruega",
+                        "Valor": 6.77,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Nueva Zelanda",
+                        "Valor": 1.24,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Omán",
+                        "Valor": 1.23,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Países Bajos",
+                        "Valor": 5.5,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Pakistán",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Palestina",
+                        "Valor": 0.86,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Panamá",
+                        "Valor": 4.44,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Papúa Nueva Guinea",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Paraguay",
+                        "Valor": 0.16,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Perú",
+                        "Valor": 1.91,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Polonia",
+                        "Valor": 7.87,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Portugal",
+                        "Valor": 8.93,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Qatar",
+                        "Valor": 20.97,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Reino Unido",
+                        "Valor": 22.83,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "República Dominicana",
+                        "Valor": 7.35,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Ruanda",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Rumanía",
+                        "Valor": 10.33,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Rusia",
+                        "Valor": 5.25,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "San Cristóbal y Nieves",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "San Marino",
+                        "Valor": 26.45,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "San Vicente y las Granadinas",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Santa Lucía",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Santo Tomé y Príncipe",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Senegal",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Serbia",
+                        "Valor": 22.02,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Seychelles",
+                        "Valor": 60.16,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Sierra Leona",
+                        "Valor": 0.08,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Singapur",
+                        "Valor": 14.53,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Siria",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Somalia",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Sri Lanka",
+                        "Valor": 0.45,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Sudáfrica",
+                        "Valor": 0.55,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Sudán",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Sudán del Sur",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Suecia",
+                        "Valor": 7.48,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Suiza",
+                        "Valor": 10.7,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Surinam",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Swazilandia",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Tailandia",
+                        "Valor": 0.56,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Taiwán",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Timor",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Togo",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Tonga",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Trinidad y Tobago",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Túnez",
+                        "Valor": 0.8,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Turquía",
+                        "Valor": 11.1,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Ucrania",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Uganda",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Uruguay",
+                        "Valor": 19.82,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Uzbekistan",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Venezuela",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Vietnam",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Yibuti",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Zambia",
+                        "Valor": 0,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "Zimbabue",
+                        "Valor": 0.63,
+                        "Estado": null,
+                        "Notas": null
+                    }
+                ]
+            }
+        ]
+    }
+}
